@@ -29,7 +29,7 @@ notifyMe('Halo guys, selamat datang :)', 'Di blog pribadi saya, jika membutuhkan
             });
 
 		// Audio play with notif
-          	var audio = new Audio('http://iztaziek.pun.bz/files/off.mp3');
+          	var audio = new Audio('http://zulmyeve.generasi.net/files/off.mp3');
 			audio.play();
  
             if (redirect_onclick) {
